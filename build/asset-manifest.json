@@ -1,0 +1,22 @@
+{
+  "main.css": "/static/css/main.a71c0765.chunk.css",
+  "main.js": "/static/js/main.4376dad4.chunk.js",
+  "main.js.map": "/static/js/main.4376dad4.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/css/2.0802b8a1.chunk.css": "/static/css/2.0802b8a1.chunk.css",
+  "static/js/2.7fdbcf4f.chunk.js": "/static/js/2.7fdbcf4f.chunk.js",
+  "static/js/2.7fdbcf4f.chunk.js.map": "/static/js/2.7fdbcf4f.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.08f390c08145cdbf02c6e6ccda31836b.js": "/precache-manifest.08f390c08145cdbf02c6e6ccda31836b.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.0802b8a1.chunk.css.map": "/static/css/2.0802b8a1.chunk.css.map",
+  "static/css/main.a71c0765.chunk.css.map": "/static/css/main.a71c0765.chunk.css.map",
+  "static/media/Infosys.jpg": "/static/media/Infosys.ee2b7524.jpg",
+  "static/media/Labs.jpg": "/static/media/Labs.3b686e70.jpg",
+  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+  "static/media/oxford.jpg": "/static/media/oxford.47563d54.jpg",
+  "static/media/station.jpg": "/static/media/station.0a53c13b.jpg",
+  "static/media/user.jpg": "/static/media/user.d6bf85eb.jpg",
+  "static/media/workspaces.jpg": "/static/media/workspaces.d2282889.jpg"
+}
